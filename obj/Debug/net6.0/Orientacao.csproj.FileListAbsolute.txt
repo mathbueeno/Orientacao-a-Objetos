@@ -1,0 +1,15 @@
+D:\Orientacao\obj\Debug\net6.0\Orientacao.csproj.AssemblyReference.cache
+D:\Orientacao\obj\Debug\net6.0\Orientacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Orientacao\obj\Debug\net6.0\Orientacao.AssemblyInfoInputs.cache
+D:\Orientacao\obj\Debug\net6.0\Orientacao.AssemblyInfo.cs
+D:\Orientacao\obj\Debug\net6.0\Orientacao.csproj.CoreCompileInputs.cache
+D:\Orientacao\bin\Debug\net6.0\Orientacao.exe
+D:\Orientacao\bin\Debug\net6.0\Orientacao.deps.json
+D:\Orientacao\bin\Debug\net6.0\Orientacao.runtimeconfig.json
+D:\Orientacao\bin\Debug\net6.0\Orientacao.dll
+D:\Orientacao\bin\Debug\net6.0\Orientacao.pdb
+D:\Orientacao\obj\Debug\net6.0\Orientacao.dll
+D:\Orientacao\obj\Debug\net6.0\refint\Orientacao.dll
+D:\Orientacao\obj\Debug\net6.0\Orientacao.pdb
+D:\Orientacao\obj\Debug\net6.0\Orientacao.genruntimeconfig.cache
+D:\Orientacao\obj\Debug\net6.0\ref\Orientacao.dll
